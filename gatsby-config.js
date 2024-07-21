@@ -11,6 +11,7 @@ module.exports = {
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     "gatsby-plugin-decap-cms",
+    "'gatsby-plugin-netlify-identity-widget'",
     {
       resolve: "gatsby-source-filesystem",
       options: {
